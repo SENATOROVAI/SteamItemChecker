@@ -1,0 +1,2 @@
+requests==2.31.0
+python-steam-api==2.0
